@@ -208,3 +208,4 @@ __marimo__/
 
 # Additional ignores
 /raw/pokemon_partial.csv
+/data/*.png
